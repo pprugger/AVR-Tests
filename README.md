@@ -4,5 +4,13 @@ Some tests in Atmel Studio
 Testing:
 
 LCD-Driver
+
 UART
+
 LED-Drivers
+
+Real time clock with counter
+
+Interrupts
+
+Basic shell via UART
