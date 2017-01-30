@@ -1,5 +1,7 @@
 # AVR-Tests
-Some tests in Atmel Studio
+Some tests in Atmel Studio 7.
+
+Used Microcontroller is AVR ATMEGA644.
 
 Testing:
 
