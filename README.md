@@ -1,2 +1,8 @@
 # AVR-Tests
-Some tests Atmel Studio
+Some tests in Atmel Studio
+
+Testing:
+
+LCD-Driver
+UART
+LED-Drivers
