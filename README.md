@@ -5,14 +5,9 @@ Used Microcontroller is AVR ATMEGA644.
 
 Testing:
 
-LCD-Driver
-
-UART
-
-LED-Drivers
-
-Real time clock with counter
-
-Interrupts
-
-Basic shell via UART
+- LCD-Driver
+- UART
+- LED-Drivers
+- Real time clock with counter
+- Interrupts
+- Basic shell via UART
